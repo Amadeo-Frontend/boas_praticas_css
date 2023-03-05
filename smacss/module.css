@@ -1,0 +1,19 @@
+.produto {}
+
+/* bloco */
+
+.produto__imagem {
+    /* elemento */
+    width: 100%;
+}
+
+.produto__nome {
+    /* elemento */
+    font-size: 1.2em;
+    margin: 8px 0;
+}
+
+.produto__descricao {
+    /* elemento */
+    color: gray;
+}
